@@ -2,6 +2,7 @@
 
 [![Build Status](https://cloud.drone.io/api/badges/v7lin/curl-docker/status.svg)](https://cloud.drone.io/v7lin/curl-docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/v7lin/curl.svg)](https://hub.docker.com/r/v7lin/curl)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/v7lin/curl-docker/blob/master/LICENSE)
 
 ### usage
 
