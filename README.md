@@ -16,8 +16,8 @@ docker run --rm -it v7lin/curl sh -c "curl https://www.baidu.com/"
 * drone
 
 ````
-- name: openssl
-  image: v7lin/openssl
+- name: curl
+  image: v7lin/curl
   commands:
   - curl https://www.baidu.com/
 ````
